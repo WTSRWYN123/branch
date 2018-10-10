@@ -12,7 +12,7 @@ merge branch 把名为branch 的分支合并到当前分支上;
 
 // 一个项目从无到有 需要用到指令 ;
 
-git clone 路径;
+git clone 路径;daniu
 
 // 远程仓库 => 本地仓库;
 
